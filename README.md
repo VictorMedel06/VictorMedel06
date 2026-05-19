@@ -1,7 +1,7 @@
 # 👋 About Me:
 I am currently a student at IES La Marisma studying Higher Degree in Software Development (DAW)<br><br>💻 My programming languages include: PHP, JavaScript, Java, Python, HTML, CSS, MySQL<br><br>📫 Contact Email: victormedelmartin@gmail.com
 
-## 🚀 Featured Project:
+## 🚀 Intermodular Project:
 **Planify** — A web app for managing routines and habits, built with Laravel + Vue 3.
 🔗 [Live Demo](https://ieslamarisma.net/proyectos/2026/victormedel/planify-app/public)
 
